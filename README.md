@@ -1,2 +1,2 @@
-# 7days-trial-in-batch
+# 7days trial in batch
 Simple 7days trial in batch.
