@@ -1,4 +1,6 @@
 @echo off
+REM PROGRAM MADE BY CODE613x ON GITUB AND CODE613 ON YOUTUBE.
+
 REM Replace folder name with your folder name
 set datedir=%appdata%\Foldername
 REM Replace the number 7 with the value of the trial.
