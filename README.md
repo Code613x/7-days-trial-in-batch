@@ -6,7 +6,8 @@ This application is for educational purposes.
 Program can be used for commercial purposes only with "REM PROGRAM MADE BY CODE613x ON GITUB AND CODE613 ON YOUTUBE." after @echo off.
 
 ## Contact
-My discord alt+f4#3704
+If you need help with your project you can write to me on discord
+Alt+f4#3704
 
 ## Code
 To show days left to end of trial use this command.
