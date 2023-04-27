@@ -4,6 +4,8 @@ This is a simple Batch application with a 7-day trial period. The trial period b
 
 This application is for educational purposes.
 Program can be used for commercial purposes only with "REM PROGRAM MADE BY CODE613x ON GITUB AND CODE613 ON YOUTUBE." after @echo off.
+## Contact
+My discord alt+f4#3704
 ## Code
 To show days left to end of trial use this command.
 ```batch
