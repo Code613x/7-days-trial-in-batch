@@ -3,7 +3,7 @@ This is a simple Batch application with a 7-day trial period. The trial period b
 
 This application is for educational purposes.
 Program can be used for commercial purposes only with "REM PROGRAM MADE BY CODE613x ON GITUB AND CODE613 ON YOUTUBE." on the third line.
-
+## Code
 To show days left to end of trial use this command.
 ```batch
 echo %trial_time%
