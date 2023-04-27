@@ -28,13 +28,13 @@ To remove days from trial use this command (change 10 to amount of days that you
 set /a trial_time=trial_time-10
 if %trial_time% lss 0 set trial_time=0
 echo %trial_time%
-    attrib -h "%datedir%"
-    attrib -h "%datedir%\date.txt"
-    (
-    echo %start_date%
-    echo %trial_time%
-    )>"%datedir%\date.txt"
-    attrib +h "%datedir%"
-    attrib +h "%datedir%\date.txt"
+attrib -h "%datedir%"
+attrib -h "%datedir%\date.txt"
+(
+echo %start_date%
+echo %trial_time%
+)>"%datedir%\date.txt"
+attrib +h "%datedir%"
+attrib +h "%datedir%\date.txt"
   ```
 
