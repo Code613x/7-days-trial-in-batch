@@ -6,7 +6,9 @@ Program can be used for commercial purposes only with "REM PROGRAM MADE BY CODE6
 
 Info
 To show days left to end of trial use this command.
+```batch
   echo %trial_time%
+```
 
 
 To add days to trial use this command (change 10 to amount of days that you want to add).
