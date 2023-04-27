@@ -12,6 +12,7 @@ To show days left to end of trial use this command.
 
 
 To add days to trial use this command (change 10 to amount of days that you want to add).
+```batch
 set /a trial_time=trial_time+10
 attrib -h "%datedir%"
 attrib -h "%datedir%\date.txt"
@@ -21,8 +22,9 @@ echo %trial_time%
 )>"%datedir%\date.txt"
 attrib +h "%datedir%"
 attrib +h "%datedir%\date.txt"
-
+```
 To remove days from trial use this command (change 10 to amount of days that you want to remove)
+```batch
 set /a trial_time=trial_time-10
 if %trial_time% lss 0 set trial_time=0
 echo %trial_time%
@@ -34,3 +36,5 @@ echo %trial_time%
     )>"%datedir%\date.txt"
     attrib +h "%datedir%"
     attrib +h "%datedir%\date.txt"
+  ```
+
