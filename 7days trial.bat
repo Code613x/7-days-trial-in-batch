@@ -17,6 +17,7 @@ set /p start_date=<"%datedir%\date.txt"
 for /f "tokens=1-3 delims=." %%a in ("%start_date%") do set start_date=%%c%%b%%a
 for /f "tokens=1-3 delims=." %%a in ("%date%") do set current_date=%%c%%b%%a
 set start_date=%start_date: =%
+set current_date=%current_date: =%
 set /a x=(%current_date%-%start_date%)
 if %x% lss %trial_time% (
 
