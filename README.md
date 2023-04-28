@@ -1,12 +1,14 @@
 # 7 days trial in batch
 
+> __Note__ 
+> **If you are utilizing my program for commercial purposes, kindly provide attribution to my GitHub account.**
+
+> __Warning__ 
+> **I hereby declare that I am not liable for any damages caused by the program. If you experience any problems with my code, feel free to reach out to me on Discord.**
+> 
 ## About project
 
 This Batch application includes a 7-day trial period that commences on the initial launch of the program and concludes either after 7 days or upon manual expiration, whichever comes first.
-
-**If you are utilizing my program for commercial purposes, kindly provide attribution to my GitHub account.**
-
-**I hereby declare that I am not liable for any damages caused by the program. If you experience any problems with my code, feel free to reach out to me on Discord.**
 
 ## Contact
 In case you require any assistance with your project, please do not hesitate to contact me on Discord.
