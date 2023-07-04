@@ -12,7 +12,7 @@ This Batch application includes a 7-day trial period that commences on the initi
 
 ## Contact
 In case you require any assistance with your project, please do not hesitate to contact me on Discord.
-**Alt+f4#3704**
+**Code613**
 
 ## Code
 To view the number of days remaining until the end of the trial period, please use this command.
